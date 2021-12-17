@@ -1,4 +1,4 @@
-<a href="https://github.com/Rafa-Pires">(./Rafa.gif)</a>
+<a href="https://github.com/Rafa-Pires">![Rafa-Pires](./Rafa.gif)</a>
 
 
 
