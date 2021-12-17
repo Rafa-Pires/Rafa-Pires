@@ -1,6 +1,5 @@
 <a href="https://github.com/Rafa-Pires">![Rafa-Pires](./Banner.jpg)</a>
 
-##
 <h1 align="left"> Skills </h1>
 <p align="left">
   <code><a><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"></a></code>  
