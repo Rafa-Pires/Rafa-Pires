@@ -1,4 +1,4 @@
-<a href="https://github.com/Rafa-Pires">![Rafa-Pires](./Rafa.jpg)</a>
+<a href="https://github.com/Rafa-Pires">![Rafa-Pires](./Banner.jpg)</a>
 
 ##
 <h1 align="left"> Skills </h1>
