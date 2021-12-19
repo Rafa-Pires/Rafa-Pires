@@ -23,9 +23,13 @@
   
 <!-- Meus contatos -->
 <h1 align="left"> Meus Contatos </h1>
-<a>
-  <href = "malito:rpiresoliver@gmail.com"><image src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a
-
+<div>
+  <a>
+    <href = "malito:rpiresoliver@gmail.com"><image src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a>
+    <href = "https://www.linkedin.com/in/rafael-pires-de-oliveira-37003a164?    lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQE%2FeecZxS0eD%2FMyQkIJI3g%3D%3D"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
   
 
