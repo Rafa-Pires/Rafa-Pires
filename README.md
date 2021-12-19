@@ -1,5 +1,5 @@
 <!-- Banner Superior -->
-  <img src="./Arquivos/Banner.jpg">
+  <img src="./Arquivos/Banner2.jpg">
 <br>
 
 <!-- Ferramentas para Abalytics -->
