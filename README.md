@@ -1,5 +1,5 @@
 <!-- Banner Superior -->
-  <img src="./Banner.jpg">
+  <img src="./Arquivos/Banner.jpg">
 
 <!-- Ferramentas para Abalytics -->
   <h1 align="left"> Caixa de Ferramentas </h1>
