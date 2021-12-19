@@ -13,6 +13,15 @@
       <img src="./Arquivos/IBM_SPSS_Modeler.jpg" height="50">
     </div>  
   <br>
+  
+<!-- Estudando Atualmente  -->
+<h1 align="left"> Estudando Atualmente </h1>
+  <div>
+      <img src="./Arquivos/html5.png" height="50">
+      <img src="./Arquivos/CSS3.png" height="50">
+      <img src="./Arquivos/JS.jfif" height="50">
+    </div>  
+  <br>
 
 <!-- Sobre mim -->
 <h1 align="left"> Sobre mim </h1>
