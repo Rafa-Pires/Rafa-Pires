@@ -1,17 +1,27 @@
-<a href="https://github.com/Rafa-Pires">![Rafa-Pires](./Banner.jpg)</a>
+<!-- Banner Superior -->
+  <img src="./Banner.jpg">
 
-<h1 align="left"> Skills </h1>
-<p align="left">
-  <code><a><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"></a></code>  
-  <code><a><img alt="R" title="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"></a></code>
-  <code><a><img alt="SQL" title="SQL" src="./SQL.jpg" height="30" width = "35"></a></code>
-  <code><a><img alt="vba" title="vba" src="./vba2.jpg" height="30" width = "70"></a></code>
-  <code><a><img alt="powerbi" title="powerbi" src="./powerBI.png" height = "30" width = "100"></a></code>  
-</p>
-<br>
+<!-- Ferramentas para Abalytics -->
+  <h1 align="left"> Caixa de Ferramentas </h1>
+  <div>
+      <img src="./Arquivos/python.png" height="50">
+      <img src="./Arquivos/R.jfif" height="50">
+      <img src="./Arquivos/SQL.jpg" height="50">
+      <img src="./Arquivos/powerBI.png" height="50">
+      <img src="./Arquivos/vba2.jpg" height="50">
+      <img src="./Arquivos/IBM_SPSS_Modeler.jpg" height="50">
+    </div>  
+  <br>
 
-
+<!-- Sobre mim -->
+<h1 align="left"> Sobre mim </h1>
 ### Olá, sou Rafael Pires
 
--🔌 Trabalho atualmente com Análise de Dados em uma utility
+  -🔌 Trabalho atualmente com Análise de Dados em uma utility
+  
+  
+<!-- Meus contatos -->
+<h1 align="left"> Meus Contatos </h1>
+
+  
 
