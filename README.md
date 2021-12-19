@@ -18,7 +18,11 @@
 <h1 align="left"> Sobre mim </h1>
 ### Olá, sou Rafael Pires
 
-  -🔌 Trabalho atualmente com Análise de Dados em uma utility
+  - Sou de Sumaré, Região Metropolitana de Campinas-SP
+  - Trabalho atualmente com Recuperação de Receitas em uma Distribuidora de Energia
+  - Utilizo analytics diariamente em minha rotina para potencializar resultados
+  - Sou apaixonado por dados e estudo continuamente sobre o assunto
+  - Meu principal objetivo é identificar e resolver problemas
 <br>  
   
 <!-- Meus contatos -->
