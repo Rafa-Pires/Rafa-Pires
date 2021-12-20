@@ -24,16 +24,27 @@
   <br>
 
 <!-- Sobre mim -->
-<h1 align="left"> Sobre mim </h1>
-### Olá, sou Rafael Pires
+<h1 align="left"> Um pouco sobre mim </h1>
 
-  - Sou de Sumaré, Região Metropolitana de Campinas-SP
+Olá, sou Rafael Pires
+  - Casado, tenho três lindos filhos
   - Trabalho atualmente com Recuperação de Receitas em uma Distribuidora de Energia
-  - Utilizo analytics diariamente em minha rotina para potencializar resultados
+  - Em meu tempo livre adoro fazer churrasco
   - Sou apaixonado por dados e estudo continuamente sobre o assunto
+  - Utilizo analytics diariamente em minha rotina para potencializar resultados
   - Meu principal objetivo é identificar e resolver problemas
-<br>  
-  
+
+<h3 align="left"> Soft Skills </h3>
+
+  - Atitude positiva
+  - Resiliência
+  - Adaptabilidade
+  - Comunicação assertiva
+  - Motivação
+  - Trabalho em equipe
+
+<br>    
+
 <!-- Meus contatos -->
 <h1 align="left"> Contatos </h1>
 <div>
